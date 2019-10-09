@@ -1,0 +1,10 @@
+C:\ProjetoGit\StringBuilder\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilderPost.deps.json
+C:\ProjetoGit\StringBuilder\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilderPost.runtimeconfig.json
+C:\ProjetoGit\StringBuilder\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilderPost.runtimeconfig.dev.json
+C:\ProjetoGit\StringBuilder\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilderPost.dll
+C:\ProjetoGit\StringBuilder\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilderPost.pdb
+C:\ProjetoGit\StringBuilder\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilderPost.csproj.CoreCompileInputs.cache
+C:\ProjetoGit\StringBuilder\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilderPost.AssemblyInfoInputs.cache
+C:\ProjetoGit\StringBuilder\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilderPost.AssemblyInfo.cs
+C:\ProjetoGit\StringBuilder\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilderPost.dll
+C:\ProjetoGit\StringBuilder\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilderPost.pdb

@@ -1,0 +1,11 @@
+C:\ProjetoGit\StringBuilder\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilder.deps.json
+C:\ProjetoGit\StringBuilder\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilder.runtimeconfig.json
+C:\ProjetoGit\StringBuilder\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilder.runtimeconfig.dev.json
+C:\ProjetoGit\StringBuilder\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilder.dll
+C:\ProjetoGit\StringBuilder\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilder.pdb
+C:\ProjetoGit\StringBuilder\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilder.csprojAssemblyReference.cache
+C:\ProjetoGit\StringBuilder\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilder.csproj.CoreCompileInputs.cache
+C:\ProjetoGit\StringBuilder\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilder.AssemblyInfoInputs.cache
+C:\ProjetoGit\StringBuilder\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilder.AssemblyInfo.cs
+C:\ProjetoGit\StringBuilder\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilder.dll
+C:\ProjetoGit\StringBuilder\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilder.pdb
